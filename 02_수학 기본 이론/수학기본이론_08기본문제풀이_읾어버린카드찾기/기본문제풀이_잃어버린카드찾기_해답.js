@@ -20,6 +20,7 @@ function answer(a, b, c) {
 
   // 3. 이전 값 + d
   number = num[0] + d * index;
+  num = num;
 
   return number;
 }
